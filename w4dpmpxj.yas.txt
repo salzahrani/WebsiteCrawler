@@ -1,0 +1,33 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .classpath
+#	new file:   .project
+#	new file:   .settings/org.eclipse.core.resources.prefs
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   CreateScript.txt
+#	new file:   bin/com/crawler/CommonFunctions.class
+#	new file:   bin/com/crawler/Domain.class
+#	new file:   bin/com/crawler/Hasher.class
+#	new file:   bin/com/crawler/Main.class
+#	new file:   bin/com/crawler/WebPage.class
+#	new file:   lib/boilerpipe-1.2.0.jar
+#	new file:   lib/boilerpipe-demo-1.2.0.jar
+#	new file:   lib/boilerpipe-javadoc-1.2.0.jar
+#	new file:   lib/boilerpipe-sources-1.2.0.jar
+#	new file:   lib/jsoup-1.8.3.jar
+#	new file:   lib/nekohtml-1.9.13.jar
+#	new file:   lib/postgresql-9.3-1101.jdbc41.jar
+#	new file:   lib/xerces-2.9.1.jar
+#	new file:   src/com/crawler/CommonFunctions.java
+#	new file:   src/com/crawler/Domain.java
+#	new file:   src/com/crawler/Hasher.java
+#	new file:   src/com/crawler/Main.java
+#	new file:   src/com/crawler/WebPage.java
+#
+
